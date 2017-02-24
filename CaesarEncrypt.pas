@@ -1,6 +1,8 @@
 /* 10/15/2014
- * Print out the plain text given the shift and ciphertext.
- * Input: Two lines. 1.The number of shift in alphabet. 2. The ciphertext. 
+ * Print out the ciphertext given the shift and plain text.
+ * Input: Two lines. 
+        1.The number of shift in alphabet. 
+        2. The plain text.(restricted to lower case) 
  */
 
 var i,j,k,c:integer;
