@@ -3,6 +3,7 @@
  * Input : Two lines.
            1. Shift in alphabet
            2. Plain text.
+ * Plain text can be either lower case or capitalized. The output would remain the same form.
  * How did I wrote so many code on the same day..
  */
 
